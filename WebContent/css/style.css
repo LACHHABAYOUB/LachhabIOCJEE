@@ -1,0 +1,25 @@
+
+
+div{
+	border: 2px dotted gray;
+	padding:10px;
+	margin:10px;
+	margin:center;
+	background-color: #f2c2c2;
+}
+
+table{
+	border: 2px dotted gray;
+	padding:10px;
+	margin:10px;
+	margin-left:550px;
+	background: #c0c0c0;
+}
+
+td{
+	border: 2px dotted gray;
+	padding:10px;
+	margin:10px;
+	background: #c0c0c0;
+}
+
